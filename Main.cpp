@@ -9,7 +9,7 @@ int number;
 string output;`
 int main()
 {
-    cout << "Hello Oscar!";
+    cout << "Hello Name!";
     cout << "\nEnter A Number: ";
     cin >> number;
     cout << "Number is: " << number;
